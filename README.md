@@ -120,5 +120,3 @@ Computer Science Engineering Student | Machine Learning Enthusiast
 GitHub: [Parv-Pahuja](https://github.com/Parv-Pahuja)
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star!
